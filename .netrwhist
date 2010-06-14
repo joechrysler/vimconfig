@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/joe/bin'
+let g:netrw_dirhist_2='/usr/share/magicrescue/recipes'
+let g:netrw_dirhist_3='/media/Data/My Dropbox/School/cs451/Compiler/Compiler/bin/Debug'
+let g:netrw_dirhist_4='/media/Data/My Dropbox/School/cs451/Compiler/Compiler/bin'
