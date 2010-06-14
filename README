@@ -1,0 +1,7 @@
+vimconfig is my personal collection of vim configs, plugins and other addons to make my working environment easier to use.  It's pretty quick and dirty right now, but feel free to download and use to your heart's content.
+
+I've specifically focused on making it easy to edit PHP, JavaScript, CSS and HTML.
+
+If you like the project, please watch it so I know that I'm not only talking to myself through this thing.
+
+If you have something to add, fork it and send me a pull request.  So long as the change works well for my environment, I'll add your changes to the main repo.
