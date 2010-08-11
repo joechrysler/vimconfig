@@ -16,6 +16,11 @@ setlocal define=^\\s*\\%(@mixin\\\|=\\)
 setlocal includeexpr=substitute(v:fname,'\\%(.*/\\\|^\\)\\zs','_','')
 setlocal omnifunc=csscomplete#CompleteCSS
 setlocal suffixesadd=.sass,.scss,.css
+setlocal tabstop=2
+setlocal shiftwidth=2
+setlocal expandtab
+setlocal softtabstop=2
+
 
 let &l:include = '^\s*@import\s\+\%(url(\)\=["'']\='
 

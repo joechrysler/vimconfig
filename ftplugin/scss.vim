@@ -3,6 +3,12 @@
 " Maintainer:	Tim Pope <vimNOSPAM@tpope.org>
 " Last Change:	2010 Jul 26
 
+setlocal tabstop=2
+setlocal shiftwidth=2
+setlocal expandtab
+setlocal softtabstop=2
+
+
 if exists("b:did_ftplugin")
   finish
 endif
