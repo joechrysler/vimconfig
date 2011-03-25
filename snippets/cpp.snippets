@@ -14,10 +14,15 @@ snippet map
 snippet vector
 	std::vector<${1:char}> v${2};
 # Namespace
+snippet uns
+	using namespace std;
+
+	${0}
 snippet ns
 	namespace ${1:`Filename('', 'my')`} {
 		${2}
 	} /* $1 */
+
 # Class
 snippet cl
 	class ${1:`Filename('$1_t', 'name')`} {

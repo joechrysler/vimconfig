@@ -1,6 +1,6 @@
 let g:netrw_dirhistmax  =10
 let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/home/joe/bin'
-let g:netrw_dirhist_2='/usr/share/magicrescue/recipes'
-let g:netrw_dirhist_3='/media/Data/My Dropbox/School/cs451/Compiler/Compiler/bin/Debug'
-let g:netrw_dirhist_4='/media/Data/My Dropbox/School/cs451/Compiler/Compiler/bin'
+let g:netrw_dirhist_1='/home/joe/.git'
+let g:netrw_dirhist_2='/home/joe/Dropbox/Work/Projects/cardBoard/cardboard'
+let g:netrw_dirhist_3='/home/joe/.config'
+let g:netrw_dirhist_4='/home/joe/Dropbox/Work/Network Services/Projects/cardBoard/cardboard/system/application/views/Fl_auth'
